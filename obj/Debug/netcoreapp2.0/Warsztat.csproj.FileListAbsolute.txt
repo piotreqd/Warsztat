@@ -1,0 +1,22 @@
+B:\workspace\workspace_c#\Warsztat\Warsztat\bin\Debug\netcoreapp2.0\Warsztat.deps.json
+B:\workspace\workspace_c#\Warsztat\Warsztat\bin\Debug\netcoreapp2.0\Warsztat.runtimeconfig.json
+B:\workspace\workspace_c#\Warsztat\Warsztat\bin\Debug\netcoreapp2.0\Warsztat.runtimeconfig.dev.json
+B:\workspace\workspace_c#\Warsztat\Warsztat\bin\Debug\netcoreapp2.0\Warsztat.dll
+B:\workspace\workspace_c#\Warsztat\Warsztat\obj\Debug\netcoreapp2.0\Warsztat.csprojAssemblyReference.cache
+B:\workspace\workspace_c#\Warsztat\Warsztat\obj\Debug\netcoreapp2.0\Warsztat.csproj.CoreCompileInputs.cache
+B:\workspace\workspace_c#\Warsztat\Warsztat\obj\Debug\netcoreapp2.0\Warsztat.AssemblyInfoInputs.cache
+B:\workspace\workspace_c#\Warsztat\Warsztat\obj\Debug\netcoreapp2.0\Warsztat.AssemblyInfo.cs
+B:\workspace\workspace_c#\Warsztat\Warsztat\bin\Debug\netcoreapp2.0\Warsztat.pdb
+B:\workspace\workspace_c#\Warsztat\Warsztat\obj\Debug\netcoreapp2.0\Warsztat.dll
+B:\workspace\workspace_c#\Warsztat\Warsztat\obj\Debug\netcoreapp2.0\Warsztat.pdb
+B:\workspace\workspace_c#\Warsztat - Copy\Warsztat\obj\Debug\netcoreapp2.0\Warsztat.csprojAssemblyReference.cache
+B:\workspace\workspace_c#\Warsztat - Copy\Warsztat\obj\Debug\netcoreapp2.0\Warsztat.csproj.CoreCompileInputs.cache
+B:\workspace\workspace_c#\Warsztat - Copy\Warsztat\obj\Debug\netcoreapp2.0\Warsztat.AssemblyInfoInputs.cache
+B:\workspace\workspace_c#\Warsztat - Copy\Warsztat\obj\Debug\netcoreapp2.0\Warsztat.AssemblyInfo.cs
+B:\workspace\workspace_c#\Warsztat - Copy\Warsztat\obj\Debug\netcoreapp2.0\Warsztat.dll
+B:\workspace\workspace_c#\Warsztat - Copy\Warsztat\obj\Debug\netcoreapp2.0\Warsztat.pdb
+B:\workspace\workspace_c#\Warsztat - Copy\Warsztat\bin\Debug\netcoreapp2.0\Warsztat.deps.json
+B:\workspace\workspace_c#\Warsztat - Copy\Warsztat\bin\Debug\netcoreapp2.0\Warsztat.runtimeconfig.json
+B:\workspace\workspace_c#\Warsztat - Copy\Warsztat\bin\Debug\netcoreapp2.0\Warsztat.runtimeconfig.dev.json
+B:\workspace\workspace_c#\Warsztat - Copy\Warsztat\bin\Debug\netcoreapp2.0\Warsztat.dll
+B:\workspace\workspace_c#\Warsztat - Copy\Warsztat\bin\Debug\netcoreapp2.0\Warsztat.pdb
