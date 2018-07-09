@@ -20,10 +20,7 @@ namespace Warsztat.Controllers
                 {
                     Console.WriteLine(exception.Message);
                 }
-                catch (Exception exception)
-                {
-                    Console.WriteLine(exception.Message);
-                }
+                
 
             }
         }
