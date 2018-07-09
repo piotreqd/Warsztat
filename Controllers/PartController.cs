@@ -17,10 +17,6 @@ namespace Warsztat.Controllers
                     context.Parts.Remove(part);
                     context.SaveChanges();
                 }
-                catch (NullReferenceException exception)
-                {
-                    Console.WriteLine(exception.Message);
-                }
                 catch (Exception exception)
                 {
                     Console.WriteLine(exception.Message);

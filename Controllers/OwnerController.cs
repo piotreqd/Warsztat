@@ -29,10 +29,6 @@ namespace Warsztat.Controllers
                     context.Remove(deletedOwner);
                     context.SaveChanges();
                 }
-                catch (NullReferenceException exception)
-                {
-                    Console.WriteLine(exception.Message);
-                }
                 catch (Exception exception)
                 {
                     Console.WriteLine(exception.Message);

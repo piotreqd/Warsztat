@@ -32,10 +32,6 @@ namespace Warsztat.Controllers
                     order.EndDate = DateTime.Now;
                     context.SaveChanges();
                 }
-                catch (NullReferenceException exception)
-                {
-                    Console.WriteLine(exception.Message);
-                }
                 catch (Exception exception)
                 {
                     Console.WriteLine(exception.Message);

@@ -16,12 +16,10 @@ namespace Warsztat.Controllers
                     context.Remove(context.Cars.Find(carId));
                     context.SaveChanges();
                 }
-                catch (NullReferenceException exception)
+                catch (Exception exception)
                 {
                     Console.WriteLine(exception.Message);
                 }
-                
-
             }
         }
         public void Add(int ownerId, string mark, string model, string registration)

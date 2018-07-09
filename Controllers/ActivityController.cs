@@ -17,10 +17,6 @@ namespace Warsztat.Controllers
                     changedActivity.LaborPrice = laborPrice;
                     context.SaveChanges();
                 }
-                catch (NullReferenceException exception)
-                {
-                    Console.WriteLine(exception.Message);
-                }
                 catch (Exception exception)
                 {
                     Console.WriteLine(exception.Message);
@@ -40,10 +36,6 @@ namespace Warsztat.Controllers
                         context.SaveChanges();
                     }
                 }
-                catch (NullReferenceException exception)
-                {
-                    Console.WriteLine(exception.Message);
-                }
                 catch (Exception exception)
                 {
                     Console.WriteLine(exception.Message);
@@ -61,10 +53,6 @@ namespace Warsztat.Controllers
                     context.SaveChanges();                    
                 }
                 catch (NullReferenceException exception)
-                {
-                    Console.WriteLine(exception.Message);
-                }
-                catch (Exception exception)
                 {
                     Console.WriteLine(exception.Message);
                 }
